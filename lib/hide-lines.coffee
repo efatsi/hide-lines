@@ -24,11 +24,6 @@ module.exports =
     @subscriptions.dispose()
 
   hide: ->
-    # this
-    # that
-
-    # and this
-
     rowsToHide = []
     patterns   = atom.config.get('hide-lines.patterns')
     editor     = @editor()
