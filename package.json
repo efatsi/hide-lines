@@ -1,15 +1,13 @@
 {
   "name": "hide-lines",
   "main": "./lib/hide-lines",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Hides lines based on specified regex patterns",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/efatsi/hide-lines",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
