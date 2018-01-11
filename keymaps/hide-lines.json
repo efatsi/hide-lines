@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-cmd-h": "hide-lines:hide",
+    "ctrl-cmd-s": "hide-lines:show"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "hide-lines",
+  "main": "./lib/hide-lines",
+  "version": "0.0.1",
+  "description": "Hides lines based on specified regex patterns",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/hide-lines",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
