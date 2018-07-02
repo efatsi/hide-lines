@@ -30,7 +30,7 @@ module.exports =
 
     for pattern in patterns
       editor.scan new RegExp(pattern, 'g'), (m) ->
-        row = m.computedRange.end.row
+        row = m.range.end.row
 
         if rowsToHide.indexOf(row) == -1
           rowsToHide.push(row)
